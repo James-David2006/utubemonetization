@@ -6,7 +6,7 @@ monetization strategies, channel growth techniques, and sustainable revenue opti
 ---
 
 ## 🌐 Live Demo
-> Hosted on GitHub Pages / [add your live URL here if deployed]
+> https://utubemonetization.vercel.app/]
 
 ---
 
