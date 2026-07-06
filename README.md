@@ -6,8 +6,8 @@ monetization strategies, channel growth techniques, and sustainable revenue opti
 ---
 
 ## 🌐 Live Demo
-> https://utubemonetization.vercel.app/]
-
+> https://utubemonetization.vercel.app/
+> 
 ---
 
 ## ✨ Features
