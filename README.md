@@ -24,7 +24,7 @@ monetization strategies, channel growth techniques, and sustainable revenue opti
 |---|---|
 | Markup | HTML5 (Semantic) |
 | Styling | CSS3 |
-| Deployment | GitHub Pages |
+| Deployment | Vercel/GitHub Pages |
 
 ---
 
